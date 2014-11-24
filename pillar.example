@@ -1,0 +1,6 @@
+gerrit2:
+  user: gerrit2
+  home: /home/gerrit2
+  repo: /home/gerrit2/repo
+  source: https://gerrit-releases.storage.googleapis.com/gerrit-2.9.1.war
+  source_hash: sha1=be0e61a30881e1bb9e730f2731d3961faf45fc21
